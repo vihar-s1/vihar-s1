@@ -14,15 +14,8 @@ I'm Vihar Shah, a passionate tech enthusiast and a fourth-year B.Tech student ma
 
 Here you will find a collection of my open-source projects, contributions, and personal repositories. Feel free to explore and collaborate on any of the projects that catch your interest.
 
-## What You Might Find 📂
-
-- **Web Development Projects**
-
-- **Application Development**
-
-<!-- - **Ethical Hacking** -->
-
-- **Open Source Contributions**
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vihar-s1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## Contact Me 📧
 
