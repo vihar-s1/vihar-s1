@@ -72,8 +72,8 @@ Thank you for visiting my GitHub profile, and I look forward to connecting with 
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql&logoColor=4479A1&style=flat-square)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=graphql&logoColor=E10098&style=flat-square)
 
-![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=vercel&logoColor=000000&style=flat-square)
-![Render](https://img.shields.io/badge/-Render-000?&logo=render&logoColor=000000&style=flat-square)
+![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=vercel&style=flat-square)
+![Render](https://img.shields.io/badge/-Render-000?&logo=render&style=flat-square)
 
 ![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-000?&logo=microsoft-teams&logoColor=6264A7&style=flat-square)
 
@@ -90,7 +90,7 @@ Thank you for visiting my GitHub profile, and I look forward to connecting with 
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnu-bash&logoColor=4EAA25&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker&logoColor=2496ED&style=flat-square)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=kubernetes&logoColor=326CE5&style=flat-square)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000?&logo=intellij-idea&logoColor=000000&style=flat-square)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000?&logo=intellij-idea&style=flat-square)
 ![Monday.com](https://img.shields.io/badge/-Monday.com-000?&logo=monday&logoColor=FF6F20&style=flat-square)
 ![Slack](https://img.shields.io/badge/-Slack-000?&logo=slack&logoColor=4A154B&style=flat-square)
 
