@@ -9,7 +9,7 @@
 
 ## About Me 🧑‍💻
 
-I'm Vihar Shah, a passionate tech enthusiast and a fourth-year B.Tech student majoring in Information and Communication Technology. I have a deep love for Linux 💻, command line interfaces 🖥️, and all things related to technology. My primary interests include web development 🌐, application development 📱, and ethical hacking 🔒. I find joy in contributing to open source projects and excel in debugging complex software 🐞.
+I'm Vihar Shah, a passionate tech enthusiast and a fourth-year B.Tech student majoring in Information and Communication Technology. I have a deep love for Linux 💻, command line interfaces 🖥️, and all things related to technology. My primary interests include all things backend 🌐📱, and ethical hacking 🔒. I find joy in contributing to open source projects and excel in debugging complex software 🐞.
 
 ## GitHub Portfolio 🚀
 
